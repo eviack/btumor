@@ -12,6 +12,7 @@ The project aims at **accurately identifying the presence of brain tumors in MRI
 
 
 **Classification Report**
+
 ![image](https://github.com/user-attachments/assets/0aa47947-306c-4f0d-93c6-9539f631d7b6)
 
 
