@@ -11,6 +11,10 @@ The project aims at **accurately identifying the presence of brain tumors in MRI
 - **Multiple Image Processing:** Users can upload several images simultaneously, allowing for quick evaluation of multiple scans in one go.
 
 
+**Classification Report**
+![image](https://github.com/user-attachments/assets/0aa47947-306c-4f0d-93c6-9539f631d7b6)
+
+
 ## Screenshots
 
 ![Not found](https://drive.google.com/uc?export=view&id=14vsDYEEjuTwoah8TKxoH1k-tQtyMJCYk)
