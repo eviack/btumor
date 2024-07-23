@@ -21,7 +21,8 @@ The project aims at **accurately identifying the presence of brain tumors in MRI
 
 ![Not found](https://drive.google.com/uc?export=view&id=14vsDYEEjuTwoah8TKxoH1k-tQtyMJCYk)
 
-![Alt Text](https://drive.google.com/uc?export=view&id=1NYa-pP4EnNZ4JqyocDJNgAs9t4-CeUzD)
+![pg2](https://github.com/user-attachments/assets/a87271b3-e729-466d-8356-ee6d320b63e3)
+
 
 ![Alt Text](https://drive.usercontent.google.com/download?id=1YzIIhIvhmWkTCYjn0tif0YSwFaLXbEf4)
 
