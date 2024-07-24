@@ -2,7 +2,7 @@ matplotlib
 numpy
 opencv-python
 ffmpeg 
-libsm6 
+stepng
 libxext6
 streamlit
 tensorflow
