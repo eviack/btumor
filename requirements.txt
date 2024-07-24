@@ -1,5 +1,5 @@
 matplotlib
-numpy==2.0.1
+numpy==1.23
 opencv-python-headless
 ffmpeg 
 streamlit
