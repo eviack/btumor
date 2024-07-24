@@ -1,8 +1,7 @@
 matplotlib
 numpy
-opencv-python
+opencv-python-headless
 ffmpeg 
-stepng
 streamlit
 tensorflow
 tf_keras_vis
