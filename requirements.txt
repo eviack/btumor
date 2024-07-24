@@ -3,7 +3,6 @@ numpy
 opencv-python
 ffmpeg 
 stepng
-libxext6
 streamlit
 tensorflow
 tf_keras_vis
