@@ -1,6 +1,9 @@
 matplotlib
 numpy
 opencv-python
+ffmpeg 
+libsm6 
+libxext6
 streamlit
 tensorflow
 tf_keras_vis
