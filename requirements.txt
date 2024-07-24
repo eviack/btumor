@@ -3,5 +3,5 @@ numpy==2.0.1
 opencv-python-headless
 ffmpeg 
 streamlit
-tensorflow==2.17.0
+tensorflow==2.12.0
 tf_keras_vis
